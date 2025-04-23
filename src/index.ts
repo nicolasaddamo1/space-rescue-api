@@ -22,5 +22,3 @@ app.use((req, res, next) => {
     next()
 });
 
-app.get('/status', (req: Request, res: Response) => {
-})
